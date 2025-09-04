@@ -33,7 +33,7 @@ body {
 /*profile set*/
 header {
   grid-area: header;
-  background: skyblue;
+  background: pink;
   height: 65vh;
   border-radius: var(--main-redius);
 }
@@ -63,7 +63,7 @@ img {
 /*my hobby set*/
 aside {
   grid-area: aside;
-  background: skyblue;
+  background: pink;
   border-radius: var(--main-redius);
 }
 
@@ -83,7 +83,7 @@ aside {
 /*aspiration set*/
 main {
   grid-area: main;
-  background: skyblue;
+  background: pink;
   border-radius: var(--main-redius);
 }
 
@@ -185,4 +185,5 @@ main {
     height: 100vh;
   }
 }
+
 
