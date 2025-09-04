@@ -18,7 +18,7 @@ body {
   grid-gap: 0.1rem;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-weight: 800;
-  color: #004d40;
+  color: black;
   text-align: center;
   height: 100vh;
   border-radius: var(--main-redius);
@@ -185,3 +185,4 @@ main {
     height: 100vh;
   }
 }
+
